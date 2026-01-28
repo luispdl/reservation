@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Reservation\Domain\Repository;
+namespace App\Reservation\Infraestructure;
 
 use App\Reservation\Domain\Reservation;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;

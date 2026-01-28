@@ -2,7 +2,7 @@
 
 namespace App\Reservation\Domain;
 
-use App\Reservation\Domain\Repository\ReservationRepository;
+use App\Reservation\Infraestructure\ReservationRepository;
 use App\Resource\Domain\Resource;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;

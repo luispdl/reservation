@@ -2,7 +2,7 @@
 
 namespace App\Resource\Domain;
 
-use App\Resource\Domain\Repository\ResourceRepository;
+use App\Resource\Infraestructure\ResourceRepository;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 
